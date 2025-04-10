@@ -1,0 +1,19 @@
+{
+    "templates": [
+        {
+            "name": "squadbase",
+            "description": "A template for creating a squadbase project",
+            "path": "./templates/squadbase"
+        },
+        {
+            "name": "streamlit",
+            "description": "A template for creating a streamlit project",
+            "path": "./templates/streamlit"
+        },
+        {
+            "name": "nextjs",
+            "description": "A template for creating a nextjs project",
+            "path": "./templates/nextjs"
+        }            
+    ]
+}

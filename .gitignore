@@ -1,0 +1,13 @@
+# General
+.DS_Store
+.env
+
+# IDE
+/.vscode
+/.idea
+
+# Python
+__pycache__/
+
+# Node
+node_modules/
